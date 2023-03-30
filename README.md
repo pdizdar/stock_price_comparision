@@ -14,8 +14,8 @@ Option 1:
         Click on moment_stock_data.ipynb
 
 Option 2:
-        Click on the link: https://colab.research.google.com/github/pdizdar/stock_price_comparision/blob/master/Trending_Ticker_Analysis.ipynb
-        or in GitHub stock_price_comparision repository select Trending_Ticker_Analysis, once inside click on Open in colab link. Click the runtime tab, then click run all tab. This will run the entire project. 
+        Click on the link: https://colab.research.google.com/github/pdizdar/stock_price_comparision/blob/master/colab_moment_stock_data.ipynb
+        or in GitHub stock_price_comparision repository select colab_moment_stock_data.ipynb, once inside click on Open in colab link. Click the runtime tab, then click run all tab. This will run the entire project. 
 
 ### Packages that need to be installed to run this project
 Download the latest version of python from https://www.python.org/downloads/ and follow the recommended steps.
