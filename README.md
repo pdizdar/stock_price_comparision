@@ -10,11 +10,12 @@ Each time the code is run, new stocks could be present because the code webscrap
 
 ### To view the project
 Option 1:
-        Clone the Github repository and follow the packages listed below or the requirements.txt
+        Clone the Github repository to your local machine and follow the packages listed below or the requirements.txt
         Click on moment_stock_data.ipynb
 
 Option 2:
-        https://colab.research.google.com/github/pdizdar/stock_price_comparision/blob/master/Trending_Ticker_Analysis.ipynb
+        Click on the link: https://colab.research.google.com/github/pdizdar/stock_price_comparision/blob/master/Trending_Ticker_Analysis.ipynb
+        or in GitHub stock_price_comparision repository select Trending_Ticker_Analysis, once inside click on Open in colab link. Click the runtime tab, then click run all tab. This will run the entire project. 
 
 ### Packages that need to be installed to run this project
 Download the latest version of python from https://www.python.org/downloads/ and follow the recommended steps.
@@ -74,5 +75,7 @@ Feature 4. Created four unit tests
 
 Feature 5. Added Markdowns on JupyterNotebook and description of the graphs.
 
-
+### Note:
+Google Colab uses UTC timezone, which is 5 hours ahead of Eastern Time Zone. 
+Time difference is 4 hours during Daylight Savings Time.
 
