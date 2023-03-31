@@ -60,7 +60,8 @@ To run this test successfully type pytest in the terminal and press enter.
 
 ##### To generate requirements.txt file for only this file
 pip install pigar
-On terminal enter pigar generate and enter, it will create requirements.txt file for you.
+
+In the terminal, enter pigar generate, then press enter, it will create requirements.txt file for you.
 
 ### 5+ features I have included from the project requirements list.
 Feature 1. Read in 3 datasets from https://finance.yahoo.com/ using Pandas read_html functions.
